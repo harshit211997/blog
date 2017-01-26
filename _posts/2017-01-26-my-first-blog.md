@@ -3,7 +3,7 @@ layout: post
 title: "Starting game a week"
 description: "My first blog!"
 og_image: "documentation/sample-image.jpg"
-tags: [design, jekyll]
+tags: [game]
 ---
 
 So, today is Indepence day! Yay! So, first of all, happy independence day to all!(Although I am quite sure that no one would be reading this post, happens for every noobies). 
