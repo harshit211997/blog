@@ -3,7 +3,7 @@
 name: Blog
 paginate: 25
 paginate_path: "/posts/page/:num/"
-url: "https://harshit211997.github.io/"
+url: "https://harshit211997.github.io/blog/"
 blog_theme: light # Or use dark
 
 # Optional settings
