@@ -1,1 +1,1 @@
-My personal bog mainly about game development
+My personal blog mainly about game development

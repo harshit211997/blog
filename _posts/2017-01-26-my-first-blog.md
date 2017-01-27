@@ -6,7 +6,7 @@ og_image: "documentation/sample-image.jpg"
 tags: [game]
 ---
 
-So, today is Indepence day! Yay! So, first of all, happy independence day to all!(Although I am quite sure that no one would be reading this post, happens for every noobies). 
+So, today is Republic day! Yay! So, first of all, happy Republic day to all!(Although I am quite sure that no one would be reading this post, happens for every noobies). 
 
 Well, this blog can be about many things, that I have experienced recently. But, depending on how long it continues to interest me and also, depending on the amount of sleep that I experience during the typing of this blog(I am at labs of my college, IIT Roorkee). 
 
