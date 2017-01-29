@@ -1,1 +1,0 @@
-My personal blog mainly about game development
